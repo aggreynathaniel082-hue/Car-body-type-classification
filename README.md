@@ -1,4 +1,4 @@
-# 🚗 Car Body Type Classification with Deep Learning
+# Car Body Type Classification with Deep Learning
 
 A computer vision model that recognises a car's **body type** from a photo: convertible, coupe, hatchback,
 pick-up, SUV, sedan or van. It compares a fully connected neural network with a **convolutional neural network (CNN)**
